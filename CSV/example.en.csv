@@ -1,14 +1,15 @@
 "Title","Description","en"
-"key",,"Hooray, you're here! The day just got better."
+"welcome",,"Hooray, you're here! The day just got better - enjoy the following tips!"
 "key2",,"Keep calm and rock your translations."
 "key3",,"Think global. But also local."
 "key4",,"Thank you for being a part of LingoHub. Great having you around - enjoy the following tips!"
-"text_segment",,"A section of text is known as a text segment."
-"tab_shortcut",,"Once you've finished making changes to a segment, hit TAB to save and go to the next segment."
-"statuses",,"Statuses are a workflow tool which allow you to keep track of the progress of your translations."
-"status_shortcut",,"You can change the status by using one of the shortcut keys: e.g. CTRL+K = Translated.
+"text_segment",,"A section of text like this is known as a text segment. Now start rockin' your translations!"
+"tab_shortcut",,"Speedy-bi, Speedy-bo. Be fast as Speedy Gonzales. Just hit TAB to save and go to the next text segment, once you're done."
+"statuses",,"Houston, we have no problem. Keep track of the progress of your translation by statuses at any time."
+"status_shortcut",,"Keep your fingers off the mouse. Master your keyboard: Change the status by using one of the shortcut keys: e.g. CTRL+K = Translated.
 You can see other shortcuts at the bottom of the editor!"
 "placeholder_lingochecks",,"LingoChecks automatically check translations for predetermined criteria.
 Among other checks LingoHub verifies if {{placeholders}} used in the original text are also present in translated texts."
-"side_panel",,"In the side panel you can find more info that helps you translate this text segment."
+"side_panel",,"Time flies when searching for context information. In the side panel you can add more info that helps translating this text segment."
 "comments",,"Comments in a file (depending on file type) are included upon import to provide the translators with more information. They are imported as a description, visible in the side panel."
+"love",,"Made with ❤"
