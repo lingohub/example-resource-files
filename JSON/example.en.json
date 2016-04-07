@@ -6,5 +6,6 @@
   "status_shortcut" : "You can change the status by using one of the shortcut keys: e.g. CTRL+K = Translated.\n You can see other shortcuts at the bottom of the editor!",
   "placeholder_lingochecks" : "We just like to see you happy, that's why LingoChecks automatically check translations for predetermined criteria.\n Among other checks LingoHub verifies if {{placeholders}} used in the original text are also present in translated texts.",
   "side_panel" : "Time flies when searching for context information. In the side panel you can add more info that helps translating this text segment.",
-  "comments" : "Comments in a file (depending on file type) are included upon import to provide the translators with more information. They are imported as a description, visible in the side panel."
+  "comments" : "Comments in a file (depending on file type) are included upon import to provide the translators with more information. They are imported as a description, visible in the side panel.",
+  "love" : "Made with ❤"
 }

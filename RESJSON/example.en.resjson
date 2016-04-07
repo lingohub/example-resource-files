@@ -9,5 +9,5 @@
   "comments" : "Comments in a file (depending on file type) are included upon import to provide the translators with more information. They are imported as a description, visible in the side panel.",
   "_comments.comment" : "This is an awesome description.",
   "love" : "Made with ❤",
-  "_love.comment" : "lh-check {min: -5, max: +15}"
+  "_love.comment" : "lh-check {min: 10, max: 15}"
 }
