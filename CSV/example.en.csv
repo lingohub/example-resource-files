@@ -6,7 +6,7 @@
 "status_shortcut",,"Keep your fingers off the mouse. Master your keyboard: Change the status by using one of the shortcut keys: e.g. CTRL+K = Translated.
 You can see other shortcuts at the bottom of the editor!"
 "placeholder_lingochecks",,"We just like to see you happy, that's why LingoChecks automatically check translations for predetermined criteria.
-Among other checks LingoHub verifies if {{placeholders}} used in the original text are also present in translated texts."
+Among other checks LingoHub verifies if {placeholders} used in the original text are also present in translated texts."
 "side_panel",,"Time flies when searching for context information. In the side panel you can add more info that helps translating this text segment."
 "comments","This is an awesome description.","Dear developers, you are the masters of translation files. Add comments in a file (depends on file format) to provide translators with more information. They are imported as a description, visible in the side panel."
 "love","lh-check { max: 15 }","Made with ❤"

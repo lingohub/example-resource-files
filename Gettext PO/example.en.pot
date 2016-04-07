@@ -1,0 +1,39 @@
+msgid "Hooray, you're here! The day just got better - enjoy the following tips!"
+msgstr ""
+
+msgid "A section of text like this is known as a text segment. Start rockin' your translations now!"
+msgstr ""
+
+msgid "Arriba, Arriba! Andale, Andale! Be fast as Speedy Gonzales. Just hit TAB to save and go to the next text segment, once you're done."
+msgstr ""
+
+msgid "Houston, we have no problem. Keep track of the progress of your translations by statuses at any time."
+msgstr ""
+
+msgid "You can change the status by using one of the shortcut keys: e.g. CTRL+K = Translated.\n You can see other shortcuts at the bottom of the editor!"
+msgstr ""
+
+msgid "We just like to see you happy, that's why LingoChecks automatically check translations for predetermined criteria.\n Among other checks LingoHub verifies if %s used in the original text are also present in translated texts."
+msgstr ""
+
+msgid "Time flies when searching for context information. In the side panel you can add more info that helps translating this text segment."
+msgstr ""
+
+# this is a comment
+msgid "Comments in a file (depending on file type) are included upon import to provide the translators with more information. They are imported as a description, visible in the side panel."
+msgstr ""
+
+# multiline values
+msgid "In case you run out of space, you can always"
+"continue in the next line."
+msgstr ""
+
+# You can make use of plurals aswell
+msgid "Hey, a new message."
+msgid_plural "You are popular, you have got %d new messages."
+msgstr[0] ""
+
+# LingoHub translation title will be "email/To"
+msgctxt "To"
+msgid "To keep things clear and transparent between us, mscctxt and msgid will be merged with into the translation title in the format “<msgctxt>/<msgid>”. Please make sure this key is unique in every file."
+msgstr ""

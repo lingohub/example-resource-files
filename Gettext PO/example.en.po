@@ -1,0 +1,53 @@
+# header comment
+
+msgid ""
+msgstr ""
+"Project-Id-Version: LingoHub 2.2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-01 19:22+0200\n"
+"PO-Revision-Date: 2016-04-07 10:16+0100\n"
+"Last-Translator: Translator <translator@lingohub.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+
+msgid "welcome"
+msgstr "Hooray, you're here! The day just got better - enjoy the following tips!"
+
+msgid "text_segment"
+msgstr "A section of text like this is known as a text segment. Start rockin' your translations now!"
+
+msgid "tab_shortcut"
+msgstr "Arriba, Arriba! Andale, Andale! Be fast as Speedy Gonzales. Just hit TAB to save and go to the next text segment, once you're done."
+
+msgid "statuses"
+msgstr "Houston, we have no problem. Keep track of the progress of your translations by statuses at any time."
+
+msgid "status_shortcut"
+msgstr "You can change the status by using one of the shortcut keys: e.g. CTRL+K = Translated.\n You can see other shortcuts at the bottom of the editor!"
+
+msgid "placeholder_lingochecks"
+msgstr "We just like to see you happy, that's why LingoChecks automatically check translations for predetermined criteria.\n Among other checks LingoHub verifies if %s used in the original text are also present in translated texts."
+
+msgid "side_panel"
+msgstr "Time flies when searching for context information. In the side panel you can add more info that helps translating this text segment."
+
+# this is a comment
+msgid "comments"
+msgstr "Comments in a file (depending on file type) are included upon import to provide the translators with more information. They are imported as a description, visible in the side panel."
+
+# multiline values
+msgid "slogan"
+"In case you run out of space, you can always"
+"continue in the next line."
+
+# nplurals is defined for 0 and 1. One should be imported even if it is not present
+msgid "message"
+msgid_plural "You are popular, you have got %d new messages."
+msgstr[0] "Phew, only %d new message."
+
+# LingoHub translation title will be "email/To"
+msgctxt "email"
+msgid "To"
+msgstr "To keep things clear and transparent between us, mscctxt and msgid will be merged with into the translation title in the format “<msgctxt>/<msgid>”. Please make sure this key is unique in every file."
