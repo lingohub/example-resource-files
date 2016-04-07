@@ -19,21 +19,15 @@ msgstr ""
 msgid "Time flies when searching for context information. In the side panel you can add more info that helps translating this text segment."
 msgstr ""
 
-# this is a comment
+# This is an awesome description.
 msgid "Comments in a file (depending on file type) are included upon import to provide the translators with more information. They are imported as a description, visible in the side panel."
+msgstr ""
+
+# lh-check { min: 10, max: 15 }
+msgid "Made with ❤"
 msgstr ""
 
 # multiline values
 msgid "In case you run out of space, you can always"
-"continue in the next line."
-msgstr ""
-
-# You can make use of plurals aswell
-msgid "Hey, a new message."
-msgid_plural "You are popular, you have got %d new messages."
-msgstr[0] ""
-
-# LingoHub translation title will be "email/To"
-msgctxt "To"
-msgid "To keep things clear and transparent between us, mscctxt and msgid will be merged with into the translation title in the format “<msgctxt>/<msgid>”. Please make sure this key is unique in every file."
+" continue in the next line."
 msgstr ""
