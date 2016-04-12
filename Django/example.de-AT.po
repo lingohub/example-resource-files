@@ -1,1 +1,26 @@
-../PO/example.de-AT.po
+msgid ""
+msgstr ""
+"Project-Id-Version: LingoHub 2.2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-05 19:22+0200\n"
+"PO-Revision-Date: 2015-04-29 10:16+0100\n"
+"Last-Translator: Translator <translator@lingohub.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+
+msgid "Hooray, you're here! The day just got better - enjoy the following tips!"
+msgstr "Hurra, du bist hier! Der Tag ist gerettet - nutze die folgenden Tipps!"
+
+msgid "A section of text like this is known as a text segment. Start rockin' your translations now!"
+msgstr "Eine Textpassage wie diese bezeichnen wir als Textsegment. Starte jetzt mit deinen Übersetzungen durch!"
+
+msgid "Arriba, Arriba! Andale, Andale! Be fast as Speedy Gonzales. Just hit TAB to save and go to the next text segment, once you're done."
+msgstr "Arriba, Arriba! Andale, Andale! Sei schneller als Speedy Gonzales. Springe mit TAB ins nächste Textsegment, sobald du fertig bist. Deine Änderungen werden automatisch gespeichert."
+
+msgid "We just like to see you happy, that's why LingoChecks automatically check translations for predetermined criteria.\n Among other checks LingoHub verifies if %s used in the original text are also present in translated texts."
+msgstr "Bazinga!"
+
+msgid "Made with ❤"
+msgstr "❤"
