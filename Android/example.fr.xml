@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="welcome">Hurrah, tu es là. Ça fait une bonne journée - profite des renseignements suivants !</string>
+  <string name="text_segment">Un tel extrait est qualifié de segment du texte chez nous. C’est parti – commence tes traductions tout de suite/maintenant !</string>
+  <string name="tab_shortcut">Arriba, Arriba ! Andale, Andale ! Prends Speedy Gonzales de vitesse. Appuie sur TAB pour sauvegarder et continuer avec le segment prochain dès que tu as fini.</string>
+  <string name="placeholder_lingochecks">Bazinga !</string>
+  <string name="love">❤</string>
+</resources>

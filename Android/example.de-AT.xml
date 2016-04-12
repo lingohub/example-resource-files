@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="welcome">Hurra, du bist hier! Der Tag ist gerettet - nutze die folgenden Tipps!</string>
+  <string name="text_segment">Eine Textpassage wie diese bezeichnen wir als Textsegment. Starte jetzt mit deinen Übersetzungen durch!</string>
+  <string name="tab_shortcut">Arriba, Arriba! Andale, Andale! Sei schneller als Speedy Gonzales. Springe mit TAB ins nächste Textsegment, sobald du fertig bist. Deine Änderungen werden automatisch gespeichert.</string>
+  <string name="placeholder_lingochecks">Bazinga!</string>
+  <string name="love">❤</string>
+</resources>
