@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="welcome" xml:space="preserve">
+    <value>Hurrah, tu es là. Ça fait une bonne journée - profite des renseignements suivants !</value>
+  </data>
+  <data name="text_segment" xml:space="preserve">
+    <value>Un tel extrait est qualifié de segment du texte chez nous. C’est parti – commence tes traductions tout de suite/maintenant !</value>
+  </data>
+  <data name="tab_shortcut" xml:space="preserve">
+    <value>Arriba, Arriba ! Andale, Andale ! Prends Speedy Gonzales de vitesse. Appuie sur TAB pour sauvegarder et continuer avec le segment prochain dès que tu as fini.</value>
+  </data>
+  <data name="placeholder_lingochecks" xml:space="preserve">
+    <value>Bazinga !</value>
+  </data>
+  <data name="love" xml:space="preserve">
+    <value>❤</value>
+  </data>
+</root>

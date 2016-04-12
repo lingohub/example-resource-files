@@ -21,7 +21,6 @@
   <data name="side_panel" xml:space="preserve">
     <value>Time flies when searching for context information. In the side panel you can add more info that helps translating this text segment.</value>
   </data>
-  <!--  -->
   <data name="comments" xml:space="preserve">
     <value>Dear developers, you are the masters of translation files. Add comments in a file (depends on file format) to provide translators with more information. They are imported as a description, visible in the side panel.</value>
     <comment>This is an awesome description.</comment>
