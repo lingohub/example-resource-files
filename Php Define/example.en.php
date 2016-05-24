@@ -9,7 +9,7 @@
 
   define("status_shortcut", "Keep your fingers off the mouse. Master your keyboard: Change the status by using one of the shortcut keys: e.g. CTRL+K = Translated.\n You can see other shortcuts at the bottom of the editor!");
 
-  define("placeholder_lingochecks", "We just like to see you happy, that's why LingoChecks automatically check translations for predetermined criteria.\n Among other checks LingoHub verifies if {placeholders} used in the original text are also present in translated texts.");
+  define("placeholder_lingochecks", "We just like to see you happy, that's why LingoChecks automatically check translations for predetermined criteria.\n Among other checks LingoHub verifies if %s used in the original text are also present in translated texts.");
 
   define("side_panel", "Time flies when searching for context information. In the side panel you can add more info that helps translating this text segment.");
 
