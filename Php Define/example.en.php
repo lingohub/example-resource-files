@@ -7,7 +7,7 @@
 
   define("statuses", "Houston, we have no problem. Keep track of the progress of your translations by statuses at any time.");
 
-  define("status_shortcut", "Keep your fingers off the mouse. Master your keyboard: Change the status by using one of the shortcut keys: e.g. CTRL+K = Translated.\n You can see other shortcuts at the bottom of the editor!");
+  define("status_shortcut", "Keep your fingers off the mouse. Master your keyboard: Change the status by using one of the shortcut keys: e.g. CTRL+K = Translated.\n You can see other shortcuts by pressing CTRL+H!");
 
   define("placeholder_lingochecks", "We just like to see you happy, that's why LingoChecks automatically check translations for predetermined criteria.\n Among other checks LingoHub verifies if %s used in the original text are also present in translated texts.");
 
