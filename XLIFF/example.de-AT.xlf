@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" 
-  xmlns="urn:oasis:names:tc:xliff:document:1.2" 
+<xliff version="1.2"
+  xmlns="urn:oasis:names:tc:xliff:document:1.2"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd">
-<file original="sample.properties" 
-  source-language="en" target-language="de-AT" 
+<file original="sample.properties"
+  source-language="en" target-language="de-AT"
   datatype="javapropertyresourcebundle">
 <body>
    <trans-unit id="1" resname="welcome">
@@ -25,7 +25,7 @@
    </trans-unit>
    <trans-unit id="5" resname="status_shortcut">
       <source xml:lang="en">Keep your fingers off the mouse. Master your keyboard: Change the status by using one of the shortcut keys: e.g. CTRL+K = Translated.
-    You can see other shortcuts at the bottom of the editor!</source>
+    You can see other shortcuts by pressing CTRL+H!</source>
       <target xml:lang="de-AT"></target>
    </trans-unit>
    <trans-unit id="6" resname="placeholder_lingochecks">

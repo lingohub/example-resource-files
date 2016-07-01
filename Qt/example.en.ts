@@ -20,8 +20,8 @@
         <translation>Houston, we have no problem. Keep track of the progress of your translations by statuses at any time.</translation>
     </message>
     <message>
-        <source>Keep your fingers off the mouse. Master your keyboard: Change the status by using one of the shortcut keys: e.g. CTRL+K = Translated. You can see other shortcuts at the bottom of the editor!</source>
-        <translation>Keep your fingers off the mouse. Master your keyboard: Change the status by using one of the shortcut keys: e.g. CTRL+K = Translated. You can see other shortcuts at the bottom of the editor!</translation>
+        <source>Keep your fingers off the mouse. Master your keyboard: Change the status by using one of the shortcut keys: e.g. CTRL+K = Translated. You can see other shortcuts by pressing CTRL+H!</source>
+        <translation>Keep your fingers off the mouse. Master your keyboard: Change the status by using one of the shortcut keys: e.g. CTRL+K = Translated. You can see other shortcuts by pressing CTRL+H!</translation>
     </message>
     <message>
         <source>We just like to see you happy, that's why LingoChecks automatically check translations for predetermined criteria. Among other checks LingoHub verifies if %1 used in the original text are also present in translated texts.</source>
