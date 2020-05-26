@@ -2,7 +2,7 @@
 
 This repository offers specific example (resource) files, which can be used for a **test project** on LingoHub. 
 
-Specific documentation for every supported resource file type can be found in our [developers documentation](https://lingohub.com/documentation/developers/resource-files/).
+Specific documentation for every supported resource file type can be found in our [developers documentation](https://lingohub.com/developers/resource-files).
 
 ---
 
